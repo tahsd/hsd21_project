@@ -26,13 +26,13 @@ $ sudo apt-get install -y libprotobuf-dev protobuf-compiler python python-numpy
 ```
 These would have already been installed on your device if you have successfully done your lab 9.
 
-## 5. Download the dataset.
+## 5. Download the dataset
 Run the command below to download the dataset.
 ```
 $ bash download.sh
 ```
 
-## 6. Modify the C file.
+## 6. Modify the code
 You will see two functions(LargeMM and ConvLowering) that have not been implemented in the fpga_api.cpp.  
 You can fill in the codes for the functions, though, since you have already done it in the previous labs.  
 Modify fpga_api.cpp based on your previous works.  
