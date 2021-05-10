@@ -1,4 +1,4 @@
-# hsd21_project
+# Final Project (~6/14)
 
 
 ## 1. Prepare your bitstream file
