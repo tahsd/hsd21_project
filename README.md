@@ -28,7 +28,7 @@ Check if all the dependencies for running the codes have been installed.
 $ sudo apt-get update -y
 $ sudo apt-get install -y libprotobuf-dev protobuf-compiler python python-numpy
 ```
-These would have already been installed on your device if you have successfully done your lab 9.
+These would have already been installed on your device if you have successfully done your lab09.
 
 ## 5. Download the dataset (Optional)
 Run the command below to download the dataset.
