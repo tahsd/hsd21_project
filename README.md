@@ -37,7 +37,7 @@ $ bash download.sh
 ```
 
 ## 6. Modify the code
-You will see two functions (LargeMM and ConvLowering) that have not been implemented in the fpga_api.cpp. (not fpga_api_on_cpu.cpp)
+You will see two functions (LargeMM & ConvLowering) that have not been implemented in the fpga_api.cpp. (not fpga_api_on_cpu.cpp)
 You can fill in the codes for the functions, though, since you have already done it in the lab09.  
 Modify fpga_api.cpp based on your previous works.  
 
