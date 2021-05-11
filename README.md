@@ -12,8 +12,8 @@ Insert the sdcard to the device, and boot your device.
 How you can boot your device via minicom is explained [here.](http://etl.snu.ac.kr/mod/ubboard/article.php?id=1413711&bwid=2500892)
 
   
-## Optional
-※ This repo is totally same to lab09. 
+# Optional
+This repo is totally same to lab09. 
 You can just skip 3~6 and extend your work on lab09.  
 
 ## 3. Download the repository
