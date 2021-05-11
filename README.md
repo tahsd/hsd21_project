@@ -12,7 +12,7 @@ Insert the sdcard to the device, and boot your device.
 How you can boot your device via minicom is explained [here.](http://etl.snu.ac.kr/mod/ubboard/article.php?id=1413711&bwid=2500892)
 
   
-## 3. Download the repository (Optional)
+## 3. (Optional) Download the repository 
 ※ This is optional since the source files are totally same as in lab09.  
 You can therefore skip 3~5 and extend your work on lab09.  
   
@@ -22,7 +22,7 @@ $ git clone https://github.com/tahsd/hsd21_project
 ```
 Note that this command can be run on the terminal on your device if connected to the network.  
 
-## 4. Check dependencies (Optional)
+## 4. (Optional) Check dependencies 
 Check if all the dependencies for running the codes have been installed.
 ```
 $ sudo apt-get update -y
@@ -30,7 +30,7 @@ $ sudo apt-get install -y libprotobuf-dev protobuf-compiler python python-numpy
 ```
 These would have already been installed on your device if you have successfully done your lab09.
 
-## 5. Download the dataset (Optional)
+## 5. (Optional) Download the dataset 
 Run the command below to download the dataset.
 ```
 $ bash download.sh
