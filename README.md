@@ -1,7 +1,18 @@
 # Final Project 
+This is official manual for your final project.
+Please follow the instructions and specs below.
+
+---
+
 ## Due date
-**Baseline**: ~6/7  
-**Optimization**: ~6/14 (to be informed later) 
+With your report and project files: **~6/14**  
+For now we do not consider accepting any delayed submission.
+
+---
+
+## Optimizing your work
+We suggest three different ways to optimize your work: DMA(Direct Memory Access), Quantization, Zero-Skipping.  
+More information for each method will be given later.
 
 ---
 ## 1. Prepare your bitstream file
@@ -19,7 +30,7 @@ How you can boot your device via minicom is explained [here.](http://etl.snu.ac.
   
 ## 3. (Optional) Download the repository 
 ※ This is optional since the source files are totally same as in lab09.  
-You can therefore skip 3~5 and extend your work on lab09.  
+You can therefore skip 3~6 and extend your work on lab09.  
   
 You need to download this repository to start your final project.  
 ```
@@ -41,7 +52,7 @@ Run the command below to download the dataset.
 $ bash download.sh
 ```
 
-## 6. Modify the code
+## 6. (Optional) Modify the codes
 You will see two functions (LargeMM & ConvLowering) that have not been implemented in the fpga_api.cpp.  
 You can fill in the codes for the functions, though, since you have already done it in the lab09.  
 Modify fpga_api.cpp based on your previous works.  
@@ -64,6 +75,7 @@ In HARV(harvest) state, the PE controller should write back the computed data to
 ## Scoring Metrics
 1. Accuracy
 2. Inference Time 
+3. Report
 
 ---
 **Please use the Q&A board on ETL if you have questions or want more information about the project.**  
