@@ -11,7 +11,7 @@ For now we do not consider accepting any delayed submission.
 ---
 
 ## Optimizing your work
-We suggest three different ways to optimize your work: DMA(Direct Memory Access), Quantization, Zero-Skipping.  
+We suggest three different ways to optimize your work: **DMA**(Direct Memory Access), **Quantization**, **Zero-Skipping**.  
 More information for each method will be given later.
 
 ---
