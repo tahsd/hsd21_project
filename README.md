@@ -29,7 +29,7 @@ How you can boot your device via minicom is explained [here.](http://etl.snu.ac.
 
   
 ## 3. (Optional) Download the repository 
-※ This is optional since the source files are totally same as in lab09.  
+※ This is optional since the source files are totally same as in lab09, except benchmark.sh.
 You can therefore skip 3~6 and extend your work on lab09.  
   
 You need to download this repository to start your final project.  
