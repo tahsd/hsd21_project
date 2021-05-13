@@ -1,10 +1,15 @@
-# Final Project (~6/14)
+# Final Project 
+## Due date
+**Baseline**: ~6/7  
+**Optimization**: ~6/14 (to be informed later) 
 
-
+---
 ## 1. Prepare your bitstream file
 You need a bitstream file that you have generated with the block design that includes your IP.  
 You just have to replace the custom IP of the block design in lab10 with your MM(Matrix-Matrix) PE controller.  
-How the PE controller should be designed is explained [here.](http://etl.snu.ac.kr/mod/ubboard/article.php?id=1413711&bwid=2502253)
+How the PE controller should be designed is explained [here.](http://etl.snu.ac.kr/mod/ubboard/article.php?id=1413711&bwid=2502253)  
+
+
 
 ## 2. Boot your device with the bitstream file
 Once you are prepared with bistream file, modify the name of it to "zynq.bit", and move it to the sdcard.  
@@ -37,16 +42,31 @@ $ bash download.sh
 ```
 
 ## 6. Modify the code
-You will see two functions (LargeMM & ConvLowering) that have not been implemented in the fpga_api.cpp. (not fpga_api_on_cpu.cpp)
+You will see two functions (LargeMM & ConvLowering) that have not been implemented in the fpga_api.cpp.  
 You can fill in the codes for the functions, though, since you have already done it in the lab09.  
 Modify fpga_api.cpp based on your previous works.  
 
 ## 7. Run it
 Run the validation code as below.
 ```
-python eval.py
+sh benchmark.sh
 ```
-Hopefully you will get 100% accuracy for the classfication task!
+Hopefully you will get 100% accuracy on the classfication task!
+
+---
+## Specification
+1. Accuracy on the classification task with CNN should be 100%. 
+2. The PE controller should consist of (at most) 8x8 (=64) PEs.
+3. The FSM should consist of 5 states: **IDLE** - **LOAD** - **CALC** - **HARV** - **DONE**  
+In HARV(harvest) state, the PE controller should write back the computed data to BRAM.
+
+---
+## Scoring Metrics
+1. Accuracy
+2. Inference Time 
+
+---
+**Please use the Q&A board on ETL if you have questions or want more information about the project.**  
 
 
 
