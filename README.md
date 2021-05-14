@@ -3,6 +3,10 @@ This is official manual for your final project.
 Please follow the instructions and specs below.
 
 ---
+## Updates 
+(5/14) The due date has been extended to June 19.
+
+---
 
 ## Due date
 With your report and project files: **~6/19**  
