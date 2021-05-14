@@ -5,7 +5,7 @@ Please follow the instructions and specs below.
 ---
 
 ## Due date
-With your report and project files: **~6/14**  
+With your report and project files: **~6/19**  
 For now we do not consider accepting any delayed submission.
 
 ---
