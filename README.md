@@ -4,7 +4,7 @@ Please follow the instructions and specs below.
 
 ---
 ## Updates 
-(5/14) The due date has been extended to June 19.
+- (5/14) The due date has been extended to June 19.
 
 ---
 
