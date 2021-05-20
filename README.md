@@ -1,6 +1,7 @@
 # Final Project 
 This is official manual for your final project.
 Please follow the instructions and specs below.
+Keep your eyes on updates as there may be some changes in specification / scoring criteria.
 
 ---
 ## Updates 
@@ -84,7 +85,7 @@ In HARV(harvest) state, the PE controller should write back the computed data to
 You are not bound to this approach for optimizing V0. That means, you can also utilize pipelining.
 
 ---
-## Scoring Metrics
+## Scoring Criteria
 1. Implementation
 2. Inference time
 3. Accuracy 
