@@ -77,7 +77,7 @@ sh benchmark.sh
 Hopefully you will get 100% accuracy on the classfication task!
 
 ---
-## Specification
+## Specifications
 1. Accuracy on the classification task with CNN should be 100%. 
 2. The PE controller should consist of (at most) 8x8 (=64) PEs.
 3. The FSM should consist of 5 states: **IDLE** - **LOAD** - **CALC** - **HARV** - **DONE**  
