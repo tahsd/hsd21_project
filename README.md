@@ -18,11 +18,11 @@ For now we do not consider accepting any delayed submission.
 We suggest three different ways to optimize your work: **Quantization**, **Zero-Skipping**, and **DMA**(Direct Memory Access).  
 More information for each method will be given later.
 
-|              |        |         |
-|--------------|--------|---------|
-| Quantization |        |         |
-| zero-skpping |        |         |
-| DMA          | [Korean](http://etl.snu.ac.kr/mod/vod/view.php?id=1547993) | [English](http://etl.snu.ac.kr/mod/vod/view.php?id=1547994) |
+|              |        |         |         |
+|--------------|--------|---------|---------|
+| Quantization |        |         |         |
+| zero-skpping |        |         |         |
+| DMA          | [Korean](http://etl.snu.ac.kr/mod/vod/view.php?id=1547993) | [English](http://etl.snu.ac.kr/mod/vod/view.php?id=1547994) |   [Files](http://etl.snu.ac.kr/mod/ubboard/article.php?id=1413711&bwid=2535101)      |
 
 
 ---
