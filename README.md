@@ -18,6 +18,13 @@ For now we do not consider accepting any delayed submission.
 We suggest three different ways to optimize your work: **Quantization**, **Zero-Skipping**, and **DMA**(Direct Memory Access).  
 More information for each method will be given later.
 
+|              |        |         |
+|--------------|--------|---------|
+| Quantization |        |         |
+| zero-skpping |        |         |
+| DMA          | Korean | English |
+
+
 ---
 ## 1. Prepare your bitstream file
 You need a bitstream file that you have generated with the block design that includes your IP.  
@@ -73,7 +80,8 @@ Hopefully you will get 100% accuracy on the classfication task!
 1. Accuracy on the classification task with CNN should be 100%. 
 2. The PE controller should consist of (at most) 8x8 (=64) PEs.
 3. The FSM should consist of 5 states: **IDLE** - **LOAD** - **CALC** - **HARV** - **DONE**  
-In HARV(harvest) state, the PE controller should write back the computed data to BRAM.
+In HARV(harvest) state, the PE controller should write back the computed data to BRAM.  
+You are not bound to this approach for optimizing V0. That means, you can also utilize pipelining.
 
 ---
 ## Scoring Metrics
