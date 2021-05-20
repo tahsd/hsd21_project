@@ -22,7 +22,7 @@ More information for each method will be given later.
 |--------------|--------|---------|
 | Quantization |        |         |
 | zero-skpping |        |         |
-| DMA          | [Korean]() | [English]() |
+| DMA          | [Korean](http://etl.snu.ac.kr/mod/vod/view.php?id=1547993) | [English](http://etl.snu.ac.kr/mod/vod/view.php?id=1547994) |
 
 
 ---
