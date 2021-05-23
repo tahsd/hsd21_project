@@ -21,7 +21,7 @@ More information for each method will be given later.
 
 |              |        |         |         |
 |--------------|--------|---------|---------|
-| V0 (Baseline)| [Korean](http://etl.snu.ac.kr/mod/vod/view.php?id=1551724) | [English](http://etl.snu.ac.kr/mod/vod/view.php?id=1551725) |   [Files](http://etl.snu.ac.kr/mod/ubboard/article.php?id=1413711&bwid=2535101)      |
+| V0 (Baseline)| [Korean](http://etl.snu.ac.kr/mod/vod/view.php?id=1551724) | [English](http://etl.snu.ac.kr/mod/vod/view.php?id=1551725) |   [Files](http://etl.snu.ac.kr/mod/ubboard/article.php?id=1413711&bwid=2525754)      |
 | Quantization |        |         |         |
 | zero-skpping |        |         |         |
 | DMA          | [Korean](http://etl.snu.ac.kr/mod/vod/view.php?id=1547993) | [English](http://etl.snu.ac.kr/mod/vod/view.php?id=1547994) |   [Files](http://etl.snu.ac.kr/mod/ubboard/article.php?id=1413711&bwid=2535101)      |
