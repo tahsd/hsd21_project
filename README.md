@@ -6,7 +6,7 @@ Keep your eyes on updates as there may be some changes in specification / scorin
 ---
 ## Updates 
 - (5/14) The due date has been extended to June 19.
-- (5/24) The official video for the final project has been uploaded on ETL. 
+- (5/24) The official file and videos for the final project has been uploaded on ETL. 
 ---
 
 ## Due date
