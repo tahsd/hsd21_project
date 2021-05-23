@@ -87,10 +87,12 @@ You are not bound to this approach for optimizing V0. That means, you can also u
 
 ---
 ## Scoring Criteria
+Well explained in the videos.
 1. Implementation
 2. Inference time
 3. Accuracy 
 4. Report 
+
 
 ---
 **Please use the Q&A board on ETL if you have questions or want more information about the project.**  
