@@ -1,7 +1,7 @@
 # Final Project 
 This is official manual for your final project.  
 Please follow the instructions and specs below.   
-Keep your eyes on updates as there may be some changes in specification / scoring criteria.
+Keep your eyes on updates as there may be some changes in specification / scoring criteria in future.
 
 ---
 ## Updates 
