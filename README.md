@@ -83,7 +83,7 @@ Hopefully you will get 100% accuracy on the classfication task!
   (Small degradation by quantization or zero-skipping will be allowed for particular cases.)
 2. The PE controller should consist of (at most) 8x8 (=64) PEs.
 3. The FSM should consist of 5 states: **IDLE** - **LOAD** - **CALC** - **HARV** - **DONE**  
-4 During HARV(harvest) state, the PE controller should write back the computed data to BRAM.  
+4. During HARV(harvest) state, the PE controller should write back the computed data to BRAM.  
 You are not bound to this approach for optimizing V0. That means, you can also utilize pipelining.
 
 ---
