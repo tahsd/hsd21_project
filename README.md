@@ -36,7 +36,7 @@ How the PE controller should be designed is explained [here.](http://etl.snu.ac.
 
 
 ## 2. Boot your device with the bitstream file
-Once you are prepared with bistream file, modify the name of it to "zynq.bit", and move it to the sdcard.  
+Once you are prepared with the bistream file, rename it to "zynq.bit", and move it to the sdcard.  
 Insert the sdcard to the device and boot it.  
 How you can boot your device via minicom is explained [here.](http://etl.snu.ac.kr/mod/ubboard/article.php?id=1413711&bwid=2500892)
 
@@ -80,9 +80,10 @@ Hopefully you will get 100% accuracy on the classfication task!
 ---
 ## Specifications
 1. Accuracy on the classification task with CNN should be 100%. 
+  (Small degradation by quantization or zero-skipping will be allowed.)
 2. The PE controller should consist of (at most) 8x8 (=64) PEs.
 3. The FSM should consist of 5 states: **IDLE** - **LOAD** - **CALC** - **HARV** - **DONE**  
-In HARV(harvest) state, the PE controller should write back the computed data to BRAM.  
+4 During HARV(harvest) state, the PE controller should write back the computed data to BRAM.  
 You are not bound to this approach for optimizing V0. That means, you can also utilize pipelining.
 
 ---
