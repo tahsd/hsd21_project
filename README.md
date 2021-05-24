@@ -7,6 +7,8 @@ Keep your eyes on updates as there may be some changes in specification / scorin
 ## Updates 
 - (5/14) The due date has been extended to June 19.
 - (5/24) The official file and videos for the final project has been uploaded on ETL. 
+- (5/24) Updates to the scoring criteria : only time spent in HW will be evaluated. Re-check the videos.
+
 ---
 
 ## Due date
@@ -21,7 +23,7 @@ More information for each method will be given later.
 
 |              |        |         |         |
 |--------------|--------|---------|---------|
-| V0 (Baseline)| [Korean](http://etl.snu.ac.kr/mod/vod/view.php?id=1551724) | [English](http://etl.snu.ac.kr/mod/vod/view.php?id=1551725) |   [Files](http://etl.snu.ac.kr/mod/ubboard/article.php?id=1413711&bwid=2525754)      |
+| V0 (Baseline)| [Korean](http://etl.snu.ac.kr/mod/vod/view.php?id=1553770) | [English](http://etl.snu.ac.kr/mod/vod/view.php?id=1553879) |   [Files](http://etl.snu.ac.kr/mod/ubboard/article.php?id=1413711&bwid=2525754)      |
 | Quantization |        |         |         |
 | zero-skpping |        |         |         |
 | DMA          | [Korean](http://etl.snu.ac.kr/mod/vod/view.php?id=1547993) | [English](http://etl.snu.ac.kr/mod/vod/view.php?id=1547994) |   [Files](http://etl.snu.ac.kr/mod/ubboard/article.php?id=1413711&bwid=2535101)      |
