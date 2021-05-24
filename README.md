@@ -93,6 +93,9 @@ You are not bound to this approach for optimizing V0. That means, you can also u
 Well explained in the videos.
 1. Implementation
 2. Inference time
+  - Total computation time spent by HW for V0, quantization, zero-skipping
+  - Total Data transfer time for DMA
+  - Time spent by SW is not evaluted.
 3. Accuracy 
 4. Report 
 
