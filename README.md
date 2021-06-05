@@ -8,6 +8,8 @@ Keep your eyes on updates as there may be some changes in specification / scorin
 - (5/14) The due date has been extended to June 19.
 - (5/24) The official file and videos for the final project has been uploaded on ETL. 
 - (5/24) Updates to the scoring criteria : only time spent in HW will be evaluated. Re-check the videos.
+- (5/25) Materials for quantization has been uploaded.
+- (6/4) Materials for zero-skipping has been uploaded.
 
 ---
 
@@ -19,7 +21,6 @@ For now we do not consider accepting any delayed submission.
 
 ## Optimizing your work
 We suggest three different ways to optimize your work: **Quantization**, **Zero-Skipping**, and **DMA**(Direct Memory Access).  
-More information for each method will be given later.
 
 |              |        |         |         |
 |--------------|--------|---------|---------|
