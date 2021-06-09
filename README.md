@@ -7,9 +7,10 @@ Keep your eyes on updates as there may be some changes in specification / scorin
 ## Updates 
 - (5/14) The due date has been extended to June 19.
 - (5/24) The official file and videos for the final project has been uploaded on ETL. 
-- (5/24) Updates to the scoring criteria : only time spent in HW will be evaluated. Re-check the videos.
+- (5/24) Updates to the scoring criteria
 - (5/25) Materials for quantization has been uploaded.
 - (6/4) Materials for zero-skipping has been uploaded.
+- (6/9) Updates to specs : Latency of your floating point MAC must be set as 16 cycles.
 
 ---
 
@@ -88,6 +89,7 @@ Hopefully you will get 100% accuracy on the classfication task!
 3. The FSM should consist of 5 states: **IDLE** - **LOAD** - **CALC** - **HARV** - **DONE**  
 4. During HARV(harvest) state, the PE controller should write back the computed data to BRAM.  
 You are not bound to this approach for optimizing V0. That means, you can also utilize pipelining.
+5. Latency of your floating point MAC must be set as 16 cycles.
 
 ---
 ## Scoring Criteria
